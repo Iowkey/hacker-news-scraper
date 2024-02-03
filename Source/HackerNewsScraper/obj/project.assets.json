@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\HackerNewsScraper\\HackerNewsScraper.csproj",
+      "projectUniqueName": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\Source\\HackerNewsScraper\\HackerNewsScraper.csproj",
       "projectName": "HackerNewsScraper",
-      "projectPath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\HackerNewsScraper\\HackerNewsScraper.csproj",
+      "projectPath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\Source\\HackerNewsScraper\\HackerNewsScraper.csproj",
       "packagesPath": "C:\\Users\\nazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\HackerNewsScraper\\obj\\",
+      "outputPath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\Source\\HackerNewsScraper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

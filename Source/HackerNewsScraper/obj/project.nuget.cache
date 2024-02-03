@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NKVxztLUrsjhh9zfb+ertcfHWQbA5X0JobmXEt0bx9J8BIvSJwfKODtxXf/Yrs6xRidvG5tRYo/DEAI5ihXCyw==",
+  "dgSpecHash": "xB/W/Q1pyPAXx2wB/xqMbUnuz3x8W0NPNtUhTwet5gFrR26vPuBqmu+MmkxTLnPpgDsk0nJyW4DTdbMt2sAICw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\HackerNewsScraper\\HackerNewsScraper.csproj",
+  "projectFilePath": "C:\\Users\\nazar\\source\\repos\\HackerNewsScraper\\Source\\HackerNewsScraper\\HackerNewsScraper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\nazar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ddWbKwb2vO6mzub9T2WC49Mw//SrDpPBfMnGCS1EwWE=",
+  "Source": "HackerNewsScraper",
+  "BasePath": "_content/HackerNewsScraper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
