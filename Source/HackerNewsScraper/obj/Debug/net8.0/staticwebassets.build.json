@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "ddWbKwb2vO6mzub9T2WC49Mw//SrDpPBfMnGCS1EwWE=",
-  "Source": "HackerNewsScraper",
-  "BasePath": "_content/HackerNewsScraper",
+  "Hash": "ShSIOQuy2M19LfiN4nq5PUGRF9ogh6+zNICeLqedXX0=",
+  "Source": "HackerNewsScraperAPI",
+  "BasePath": "_content/HackerNewsScraperAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

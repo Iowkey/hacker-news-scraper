@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsScraper", "Source\HackerNewsScraper\HackerNewsScraper.csproj", "{402C3207-010F-4376-8551-F18D4394B745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerNewsScraperAPI", "Source\HackerNewsScraper\HackerNewsScraperAPI.csproj", "{402C3207-010F-4376-8551-F18D4394B745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
