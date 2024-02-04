@@ -1,5 +1,5 @@
-﻿using HackerNewsScraper.Models;
-using HackerNewsScraperAPI.Interfaces;
+﻿using HackerNewsScraperAPI.Interfaces;
+using HackerNewsScraperAPI.Models;
 using System.Text.Json;
 
 namespace HackerNewsScraperAPI.Services
@@ -59,7 +59,7 @@ namespace HackerNewsScraperAPI.Services
         {
             var httpRequestMessage = new HttpRequestMessage(
                 HttpMethod.Get,
-                $"https://hacker-news.firebaseio.com/v0/item/beststories.json");
+                $"https://hacker-news.firebaseio.com/v0/beststories.json");
             using HttpClient client = _httpClientFactory.CreateClient();
 
             try

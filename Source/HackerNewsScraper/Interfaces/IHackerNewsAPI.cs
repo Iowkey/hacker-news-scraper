@@ -1,4 +1,4 @@
-﻿using HackerNewsScraper.Models;
+﻿using HackerNewsScraperAPI.Models;
 
 namespace HackerNewsScraperAPI.Interfaces
 {
