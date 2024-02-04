@@ -47,7 +47,7 @@ namespace HackerNewsScraperAPI.Services
 
                 var result = await Task.WhenAll(bestStories);
 
-                _cache.Set("stories", result);
+                _cache.Set("stories", result, TimeSpan.FromMinutes(3));
 
                 return result.Take(count);
             }
