@@ -1,5 +1,6 @@
 __How to run this application__
 
+Note: This application targets .NET 8.0. In order to run it you have to make sure you have .NET 8 SDK installed on your system.
 1. Clone the repository and open the solution in Visual Studio.
 2. Press F5 to run the applicatiion.
 3. Wait until swagger page pops up in your browser.
